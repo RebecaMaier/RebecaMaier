@@ -27,16 +27,17 @@ Throughout my academic and professional journey, I've worked with software testi
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,js,git,github,mysql,vscode,idea,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,js,git,github,linux,vscode,idea,postman,azure)](https://skillicons.dev)
 
 ### Tools & Technologies
 
-- SQL / PL-SQL
 - Oracle Database
+- SQL / PL-SQL
 - Postman
 - Swagger
 - Azure DevOps
 - Gherkin
+- REST APIs
 - Scrum
 - Kanban
 
@@ -68,6 +69,6 @@ Here you'll find projects related to:
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/rebeca-maier/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
